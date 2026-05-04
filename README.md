@@ -4,8 +4,10 @@ Building small, sharp tools that automate the boring parts of running a one-pers
 
 ## What I'm shipping
 
-- **[voice2cc](https://github.com/lfzds4399-cpu/voice2cc)** — Push-to-talk for Claude Code. Hold a key, speak, get text. Cuts the typing tax on long sessions.
+- **[sitige-harness](https://github.com/lfzds4399-cpu/sitige-harness)** — Pipeline engineering harness. Three-layer composable runtime (agents / validators / pipelines), CLI-driven, observable. Extracted from a production codebase that's run for months.
+- **[cleanup-harness](https://github.com/lfzds4399-cpu/cleanup-harness)** — Safe, reviewable disk cleanup. 4-stage pipeline with whitelist-first protection and reversible quarantine. Prefers false negatives over false positives.
 - **[domain-harness](https://github.com/lfzds4399-cpu/domain-harness)** — Automated domain-investing pipeline. Generates candidates, scores them, checks availability, drafts listings.
+- **[voice2cc](https://github.com/lfzds4399-cpu/voice2cc)** — Push-to-talk for Claude Code. Hold a key, speak, get text. Cuts the typing tax on long sessions.
 
 ## Stack
 
