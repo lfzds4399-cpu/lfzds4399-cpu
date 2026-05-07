@@ -17,9 +17,9 @@ I use it every day. This README was largely dictated through it.
 
 ## Other public tools
 
-- **[domain-harness](https://github.com/lfzds4399-cpu/domain-harness)** — AI-Council domain valuation pipeline (Claude + DeepSeek). MIT.
-- **[sitige-harness](https://github.com/lfzds4399-cpu/sitige-harness)** — Composable agents/validators/pipelines runtime. CLI-driven, observable.
-- **[cleanup-harness](https://github.com/lfzds4399-cpu/cleanup-harness)** — Reviewable disk cleanup, whitelist-first, reversible quarantine.
+- **[ai-council](https://github.com/lfzds4399-cpu/ai-council)** — Tiny zero-dep multi-voter consensus framework. *Disagreement blocks instead of being averaged away.* MIT · Python 3.11+.
+- **[sitige-harness](https://github.com/lfzds4399-cpu/sitige-harness)** — Composable agents / validators / pipelines runtime. CLI-driven, observable. Lifted from a production business automation system. MIT.
+- **[domain-harness](https://github.com/lfzds4399-cpu/domain-harness)** — End-to-end domain-investing pipeline with hard budget walls and a Claude + DeepSeek AI Council. MIT.
 
 These are personal tools — small, single-author, opinionated. Fork freely.
 
