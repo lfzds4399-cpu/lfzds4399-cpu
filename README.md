@@ -20,6 +20,7 @@ I use it every day. This README was largely dictated through it.
 - **[ai-council](https://github.com/lfzds4399-cpu/ai-council)** — Tiny zero-dep multi-voter consensus framework. *Disagreement blocks instead of being averaged away.* MIT · Python 3.11+.
 - **[sitige-harness](https://github.com/lfzds4399-cpu/sitige-harness)** — Composable agents / validators / pipelines runtime. CLI-driven, observable. Lifted from a production business automation system. MIT.
 - **[domain-harness](https://github.com/lfzds4399-cpu/domain-harness)** — End-to-end domain-investing pipeline with hard budget walls and a Claude + DeepSeek AI Council. MIT.
+- **[methods-harness](https://github.com/lfzds4399-cpu/methods-harness)** — VCE Mathematical Methods 3-4 study harness. SymPy verifies every formula → bilingual lesson PDFs + cheat sheets + mock SACs from one CLI. MIT · 21 tests.
 
 These are personal tools — small, single-author, opinionated. Fork freely.
 
